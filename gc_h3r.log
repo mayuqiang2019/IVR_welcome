@@ -1,0 +1,14 @@
+! 18:25:21.985 ! M_SH_DEC  ! L_SPECIAL !    0 ! Sharon - Listening on IP=0x7f000001 : Port=1242
+! 18:25:21.985 ! M_SH_MAN  ! L_SPECIAL !    0 ! Allocation: Board 1 - Sharon = 120 , H323 = 120 , SIP = 120
+! 18:25:21.985 ! M_SH_MAN  ! L_SPECIAL !    0 ! Allocation: CRNs = 120 , Extension buffers = 130
+! 18:25:21.985 ! M_SH_MAN  ! L_SPECIAL !    0 ! Initialization: H323 Board 0: transport address: DEFAULT_HOST_IPADDR:1720
+! 18:25:21.985 ! M_SIG_DEC ! L_SPECIAL !    0 ! Board 1 - Listening on IP=0x7f000001 : Port=1243
+! 18:25:21.985 ! M_SIG_ENC ! L_SPECIAL !    0 ! Board 1 - Sharon on IP=0x7f000001 : Port=1242
+! 18:25:22. 32 ! M_SIG_MAN ! L_SPECIAL !    0 ! Board 1 - RV H.323 Stack Version 4.0.0.35
+! 18:25:22. 47 ! M_SIG_MAN ! L_SPECIAL !    0 ! Board 1 - Sigal H.323 Version 1,1,0,27.
+! 18:25:22.548 ! M_SH_MAN  ! L_SPECIAL !    0 ! Initialization: SIP Board 0: transport address: DEFAULT_HOST_IPADDR:5060
+! 18:25:22.548 ! M_SIP_DEC ! L_SPECIAL !    0 ! Board 1 - Listening on IP=0x7f000001 : Port=1244
+! 18:25:22.548 ! M_SIP_ENC ! L_SPECIAL !    0 ! Board 1 - Sharon on IP=0x7f000001 : Port=1242
+! 18:25:22.595 ! M_S_SIGAL ! L_SPECIAL !    0 ! Board 1 - RV SIP Stack Version 2.2.2.5
+! 18:25:22.595 ! M_S_SIGAL ! L_SPECIAL !    0 ! Board 1 - Sigal SIP Version 1,1,0,27
+! 18:25:23. 95 ! M_SH_MAN  ! L_SPECIAL !    0 ! Sharon Version 1,1,0,27

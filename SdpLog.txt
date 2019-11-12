@@ -1,0 +1,1 @@
+T 00ae3740 05/31/07 18:25:22 INFO   - SDP          - SDP manager was constructed successfully

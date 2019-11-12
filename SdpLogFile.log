@@ -1,0 +1,11 @@
+000009E4 04/01/13 09:22:09 SDP         : INFO  - Common Core version 1.0.18 (Release)
+000009E4 04/01/13 09:22:09 SDP         : INFO  - OS=Win32 Generic
+000009E4 04/01/13 09:22:09 SDP         : INFO  - Compiler=Visual C 6
+000009E4 04/01/13 09:22:09 SDP         : INFO  - Architecture=Little Endian, 32bit
+000009E4 04/01/13 09:22:09 SDP         : INFO  - TIME: Timestamp=Win32, Clock=Win32, Tm=Win32
+000009E4 04/01/13 09:22:09 SDP         : INFO  - THREADS: Semaphore=Win32, Lock=Win32Critical, Mutex=Win32Critical, Thread=Win32
+000009E4 04/01/13 09:22:09 SDP         : INFO  - MEMORY: OsMem=Malloc
+000009E4 04/01/13 09:22:09 SDP         : INFO  - NETWORK: Host=Win32, Select=WSASelect(), Socket=WinSock2, PortRange=Fast, DNS=Ares, TLS=None
+000009E4 04/01/13 09:22:09 SDP         : INFO  - ANSI: 64Ascii=Win32, Assert=Ansi, StdIo=Ansi, LogListener=File&Term
+000009E4 04/01/13 09:22:09 SDP         : INFO  - CHECKS: NULL=on, Range=on, Other=on
+000009E4 04/01/13 09:22:09 SDP         : INFO  - SDP manager was constructed successfully - SDP Stack Version 2.1.0.4  Copyright (c) 2004 RADVISION

@@ -1,0 +1,26 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: C4AP_WIN - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\user\LOCALS~1\Temp\RSP998.tmp" with contents
+[
+sctools.lib libdtimt.lib libdxxmt.lib libsrlmt.lib libfaxmt.lib c4lib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib c4dll.lib libgc.lib odbc32.lib ws2_32.lib /nologo /subsystem:windows /incremental:yes /pdb:"./C4ap_win.pdb" /debug /machine:I386 /def:".\C4ap_win.def" /out:"./C4ap_win.exe" 
+".\example.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\user\LOCALS~1\Temp\RSP998.tmp"
+<h3>Output Window</h3>
+Linking...
+   Creating library ./C4ap_win.lib and object ./C4ap_win.exp
+LINK : warning LNK4098: defaultlib "LIBC" conflicts with use of other libs; use /NODEFAULTLIB:library
+
+
+
+<h3>Results</h3>
+C4ap_win.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>
